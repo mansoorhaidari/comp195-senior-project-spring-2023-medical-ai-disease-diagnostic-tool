@@ -1,5 +1,3 @@
-# comp195-senior-project-spring-2023-medical-ai-disease-diagnostic-tool
-
 ### Medical AI for Disease Diagnostic Tool
 
 # Overview
