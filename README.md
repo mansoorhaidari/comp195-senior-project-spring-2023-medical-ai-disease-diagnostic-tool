@@ -33,7 +33,7 @@ We welcome contributions to this project! If you are interested in contributing,
 the repository, make your changes, and submit a pull request.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the (we need to findout) License.
 
 # Contact
 For any questions or feedback, please email us at [ to be add at later time ].
