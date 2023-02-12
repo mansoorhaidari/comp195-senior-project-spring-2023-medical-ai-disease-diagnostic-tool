@@ -4,7 +4,7 @@
  
 This project is a Medical AI tool that is designed to assist healthcare professionals in 
 diagnosing diseases based on symptoms and test results. The tool uses advanced machine 
-learning algorithms to analyze patient data and provide a diagnosis with a high degree of accuracy.
+learning algorithms to analyze patient data and provide a diagnosis with a high degree of accuracy.( More info to come soon)
 
  # Key Features
  
